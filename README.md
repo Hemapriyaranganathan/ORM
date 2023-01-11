@@ -51,4 +51,4 @@ admin.site.register(Employee,EmployeeAdmin)
 
 ## Result
 
-Program executed Successfully 
+Program Executed Successfully 
